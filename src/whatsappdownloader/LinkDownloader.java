@@ -17,7 +17,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 /**
  *
- * @author Joao
+ * @author PCF HAUCK
  */
 public class LinkDownloader {
     private String urlStr;

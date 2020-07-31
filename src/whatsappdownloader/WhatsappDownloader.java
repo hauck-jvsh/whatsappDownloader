@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  * 
- * @author Joao
+ * @author PCF HAUCK
  */
 public class WhatsappDownloader {
 

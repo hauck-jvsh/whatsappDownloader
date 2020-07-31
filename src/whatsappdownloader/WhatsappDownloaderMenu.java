@@ -20,7 +20,7 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author ADMHauck
+ * @author PCF HAUCK
  */
 public class WhatsappDownloaderMenu extends javax.swing.JFrame {
 

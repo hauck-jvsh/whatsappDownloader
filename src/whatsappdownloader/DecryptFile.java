@@ -19,7 +19,7 @@ import org.apache.commons.io.FileUtils;
 
 /**
  *
- * @author ADMHauck
+ * @author PCF HAUCK
  */
 public class DecryptFile {
     private byte[] iv;

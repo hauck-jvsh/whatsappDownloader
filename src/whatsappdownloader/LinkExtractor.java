@@ -33,7 +33,7 @@ import org.whispersystems.libaxolotl.kdf.HKDFv3;
 
 /**
  *
- * @author Joao
+ * @author PCF HAUCK
  */
 public class LinkExtractor {
     private String dbname;
